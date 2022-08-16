@@ -9,9 +9,7 @@ I have large experience (10yrs +) as Java/JEE Developer, IT Consultant, and Proj
 
 I like to code and to listen to music. :)
 
-You can reach me on [linkedin],[twitter],[github] and [soundcloud].
+You can reach me @ [linkedin] [github]
 
 [linkedin]:http://br.linkedin.com/in/soaresleo
-[twitter]: https://twitter.com/ssoaresleo
 [github]: https://github.com/leosoaress
-[soundcloud]: https://soundcloud.com/negoduro
